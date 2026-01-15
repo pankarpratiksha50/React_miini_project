@@ -1,0 +1,14 @@
+.SearchBox {
+  margin-bottom: 20px;
+}
+
+.SearchBox input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.SearchBox button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
