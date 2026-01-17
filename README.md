@@ -16,7 +16,7 @@
 
 🎨 Clean and user-friendly interface
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 React.js
 
