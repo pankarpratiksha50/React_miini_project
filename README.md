@@ -30,3 +30,13 @@ CSS3
 OpenWeather API
 
 Git & GitHub
+
+## 🔑 API Configuration
+
+Create an account on OpenWeather
+
+Generate an API key
+
+Add your API key in the project:
+
+   const API_KEY = "YOUR_API_KEY";
